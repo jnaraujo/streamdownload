@@ -1,5 +1,5 @@
 # streamdownload
-Download file using stream
+Download file using stream in python
 
 
 #Example 
