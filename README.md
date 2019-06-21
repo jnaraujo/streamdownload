@@ -1,7 +1,6 @@
 # streamdownload
 Download file using stream.
 
-
 ## Example 
 ```python
 from streamdownload import downloadFile
