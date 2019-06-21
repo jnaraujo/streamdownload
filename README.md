@@ -11,7 +11,7 @@ print(downloadFile('https://images.pexels.com/photos/2387869/pexels-photo-238786
 ## Requirements
 ```
 Python 3.6
-Requeste
+Requests
 ```
   
 ## Note
