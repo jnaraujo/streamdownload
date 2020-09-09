@@ -10,7 +10,8 @@ downloadFile('https://images.pexels.com/photos/2387869/pexels-photo-2387869.jpeg
 ## Requirements
 ```
 Python 3.6
-Requests
+requests==2.22.0
+progress==1.5
 ```
   
 ## Note
